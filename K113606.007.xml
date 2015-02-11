@@ -494,21 +494,24 @@ diſtinct chapters.</p>
                <pb n="19" facs="tcp:0824000107:23"/>
                <head>CHAP. II. Of Turbinated Shell-Fiſh of the Snail
 Kind.</head>
-               <figure>
-                  <figDesc>depiction of a turbinated shell, a bivalve
+               <p>
+                  <pb facs="tcp:0824000107:22"/> 
+                  <figure>
+                     <figDesc>depiction of a turbinated shell, a bivalve
 shell, and a multivalve shell</figDesc>
-                  <head>A Turbinated Shell. 
+                     <head>A Turbinated Shell. 
 <list>
-                        <item>
-                           <hi>1</hi> A Bivalve Shell. <hi>P. 41.</hi>
-                        </item>
-                        <item>
-                           <hi>2</hi> A Multivalve Shell. <hi>P. 61.</hi>
-                        </item>
-                     </list>
-                  </head>
-                  <byline>E. Martin sculp.</byline>
-               </figure>
+                           <item>
+                              <hi>1</hi> A Bivalve Shell. <hi>P. 41.</hi>
+                           </item>
+                           <item>
+                              <hi>2</hi> A Multivalve Shell. <hi>P. 61.</hi>
+                           </item>
+                        </list>
+                     </head>
+                     <byline>E. Martin sculp.</byline>
+                  </figure>
+               </p>
                <p>
                   <pb n="19" facs="tcp:0824000107:23"/> TO conceive the manner in which thoſe
 ani<g ref="char:EOLhyphen"/>mals ſubſiſt that are hid from us at the bottom of the deep, we
@@ -1296,11 +1299,14 @@ fellow creatures to the bottom, to pluck up a glittering mouldering pebble.</p>
             <div n="4" type="chapter">
                <pb n="61" facs="tcp:0824000107:66"/>
                <head>CHAP. IV. Of Multivalve Shell-fiſh.</head>
-               <figure>
-                  <figDesc>depiction of sea urchins</figDesc>
-                  <head>Sea Urchins.</head>
-                  <p>E. Martin sc.</p>
-               </figure>
+               <p>
+                  <pb facs="tcp:0824000107:65"/> 
+                  <figure>
+                     <figDesc>depiction of sea urchins</figDesc>
+                     <head>Sea Urchins.</head>
+                     <p>E. Martin sc.</p>
+                  </figure>
+               </p>
                <p>
                   <pb n="61" facs="tcp:0824000107:66"/>MULTIVALVE SHELL-FISH may be con<g ref="char:EOLhyphen"/>ſidered
 as animals ſhut up in round boxes. To view their habitations externally, one
@@ -1314,11 +1320,40 @@ theſe there are principally two kinds; ſuch as move, and ſuch as are
 called, by naturaliſts, Echini, or Urchins: the latter are called Pholades,
 or File Fiſh. Of both there are ſeveral ſorts; but, by deſcribing
 theſe two, we ſhall have a competent idea of all the reſt.</p>
-               <figure>
-                  <figDesc>depiction of sea urchins</figDesc>
-                  <head>Sea Urchins.</head>
-                  <byline>E. Martin sculp.</byline>
-               </figure>
+               <p>To a ſlight view, the ſea urchin may be com<g ref="char:EOLhyphen"/>pared to the
+huſk of a cheſtnut; being like it round, and with a number of bony prickles
+ſtanding out on every ſide. To exhibit this extraordinary animal in every
+light—if we could conceive a turnip ſtuck full of pins on every 
+<pb n="62" facs="tcp:0824000107:67"/> ſide, and running upon theſe pins with ſome degree
+of ſwiftneſs, we ſhould have ſome idea of this extraordinary creature.
+The mouth is placed downwards; the vent is above; the ſhell is a hollow
+vaſe, reſembling a ſcooped apple; and this filled with a ſoft,
+muſ<g ref="char:EOLhyphen"/>cular ſubſtance, through which the inteſtines wind from the bottom
+to the top. The mouth, which is placed undermoſt, is large and red,
+furniſhed with five ſharp teet, which are eaſily diſcerned. The jaws
+are ſtrengthened by five ſmall bones, in the centre of which is a ſmall
+fleſhy tongue; and from this the inteſtines make a winding of five
+ſpires, round the internal ſides of the ſhell, ending at top, where the
+excrements are excluded. But what makes the moſt ex<g ref="char:EOLhyphen"/>traordinary part of this
+animal's conformation, are its horns and its ſpines, that point from every
+part of the body, like the horns of a ſnail, and that ſerve at once as legs
+to move upon, as arms to feel with, and as inſtruments of capture and
+defence. Between theſe horns it has alſo ſpines that are not endued with
+ſuch a ſhare of motion. The ſpines and the horns iſſue from every
+part of its body; the ſpines being hard and prickly; the horns being ſoft,
+longer than the ſpines, and never ſeen except in the water. They are put
+forward and withdrawn like the <pb facs="tcp:0824000107:68"/> 
+                  <figure>
+                     <figDesc>depiction of sea urchins</figDesc>
+                     <head>Sea Urchins.</head>
+                     <byline>E. Martin sculp.</byline>
+                  </figure> 
+                  <pb n="63" facs="tcp:0824000107:69"/> horns of a ſnail, and are hid at
+the baſes of the ſpines, ſerving, as was ſaid before, for procuring
+food and motion. All this apparatus, however, is only ſeen when the animal is
+hunting its prey at the bottom of the water; for a few minutes after it is
+taken, all the horns are withdrawn into the body, and moſt of the ſpines
+drop off.</p>
                <p>It is generally ſaid of inſects, that thoſe which have the
 greateſt number of legs, always move the ſloweſt: but this animal ſeems
 to be an ex<g ref="char:EOLhyphen"/>ception to the rule; for though furniſhed with two thouſand
@@ -2079,18 +2114,42 @@ Once indeed, ſhe ſaid, ſhe thought that one of them ſeemed to ſuck;
 but the phyſician, and thoſe who attended, could not perceive any
 appearance of it. Thus, after all, it is a doubt whether theſe animals die by
 the internal or the external application of the cancerous poiſon.</p>
-               <figure>
-                  <figDesc>depiction of the bull frog and the pipal [Pipa aspera?]</figDesc>
-                  <head> 
-                     <list>
-                        <item>1. The Bull Frog. <hi>V. 7. p. 107.</hi>
-                        </item>
-                        <item>2. The Pipal. <hi>V. 7. p. 108.</hi>
-                        </item>
-                     </list>
-                  </head>
-                  <p>E. Martin sc.</p>
-               </figure>
+               <p>Of this animal there are ſeveral varieties; ſuch as the
+Water and the Land Toad, which probably differ only in the ground-colour of
+their ſkin. In the firſt, it is more inclining to aſh-colour, with brown
+ſpots; in the other, the colour is brown, approaching to black. The water
+toad is not ſo large as the other; <pb facs="tcp:0824000107:111"/> 
+                  <figure>
+                     <figDesc>depiction of the bull frog and the pipal [Pipa aspera?]</figDesc>
+                     <head> 
+                        <list>
+                           <item>1. The Bull Frog. <hi>V. 7. p. 107.</hi>
+                           </item>
+                           <item>2. The Pipal. <hi>V. 7. p. 108.</hi>
+                           </item>
+                        </list>
+                     </head>
+                     <p>E. Martin sc.</p>
+                  </figure> 
+                  <pb n="107" facs="tcp:0824000107:112"/> but both equally breed in that
+element. The ſize of the toad with us is generally from two to four inches
+long; but, in the fenny countries of Europe, I have ſeen them much larger;
+and not leſs than a common crab, when brought to table. But this is nothing
+to what they are found in ſome of the tropical climates, where travellers
+often, for the firſt time, miſtake a toad for a tortoiſe. Their uſual
+ſize is from ſix to ſeven inches; but there are ſome ſtill larger,
+and as broad as a plate. Of theſe ſome are beautifully ſtreaked and
+coloured; ſome ſtudded over, as if with pearls; others briſtled with
+horns or ſpines; ſome have the head diſtinct from the body, while others
+have it ſo ſunk in, that the animal appears without a head. All theſe are
+found in the tropical climates, in great abundance; and particularly after a
+ſhower of rain. It is then that the ſtreets ſeem entirely paved with
+them; they then crawl from their retreats, and go into all places, to enjoy
+their favourite moiſture. With us the opinion of its raining toads and frogs,
+has long been juſtly ex<g ref="char:EOLhyphen"/>ploded, but it ſtill is entertained in the tropical
+countries; and that not only by the ſavage na<g ref="char:EOLhyphen"/>tives, but the more refined
+ſettlers, who are apt enough to add the prejudices of other nations to their
+own.</p>
                <p>
                   <pb n="108" facs="tcp:0824000107:113"/>It would be a tedious, as well as a
 uſeleſs taſk, to enter into all the minute diſcriminations of theſe
@@ -2283,19 +2342,34 @@ of the river Nile, is now neither ſo large, nor its numbers ſo great as
 formerly. The arts of mankind have, through a courſe of ages, powerfully
 operated to its deſtruction; and, though it is ſometimes ſeen, it appears
 comparatively ti<g ref="char:EOLhyphen"/>morous and feeble.</p>
-               <figure>
-                  <figDesc>depiction of the crocodile and the
+               <p>To look for this animal in all its natural terrors, grown to an
+enormous ſize, propa<g ref="char:EOLhyphen"/>gated in ſurprizing numbers, and committing
+unceaſing devaſtations, we muſt go to the uninhabited regions of Africa
+and America, to thoſe immenſe rivers that roll through ex<g ref="char:EOLhyphen"/>tenſive 
+<pb facs="tcp:0824000107:124"/> 
+                  <figure>
+                     <figDesc>depiction of the crocodile and the
 crocodile egg</figDesc>
-                  <head> 
-                     <list>
-                        <item>1. The Crocodile. <hi>V. 7. p: 118.</hi>
-                        </item>
-                        <item>2. The Crocodiles Egg. <hi>V. 7. p: 134.</hi>
-                        </item>
-                     </list>
-                  </head>
-                  <p>E. Martin sc.</p>
-               </figure>
+                     <head> 
+                        <list>
+                           <item>1. The Crocodile. <hi>V. 7. p: 118.</hi>
+                           </item>
+                           <item>2. The Crocodiles Egg. <hi>V. 7. p: 134.</hi>
+                           </item>
+                        </list>
+                     </head>
+                     <p>E. Martin sc.</p>
+                  </figure> 
+                  <pb n="119" facs="tcp:0824000107:125"/> and deſolate kingdoms, where
+arts have never penetrated, where force only makes diſtinction, and the
+moſt powerful animals exert their ſtrength with confidence and ſecurity.
+Thoſe that ſail up the river Amazons, or the river Niger, well know how
+numerous and terrible thoſe animals are in ſuch parts of the world. In both
+theſe rivers, they are found from eighteen to twenty-ſeven feet long; and
+ſometimes lying as cloſe to each other, as a raft of timber upon one of our
+ſtreams. There they indolently baſk on the ſurface, no way diſturbed at
+the approach of an enemy, ſince, from the repeated trials of their
+ſtrength, they found none that they were not able to ſubdue.</p>
                <p>Of this terrible animal there are two kinds; the Crocodile,
 properly ſo called, and the Cay<g ref="char:EOLhyphen"/>man or Alligator. Travellers, however, have
 rather made the diſtinction than Nature; for in the general outline, and in
@@ -3964,17 +4038,45 @@ is given at preſent; and it is ſaid to be a very powerful reſtorative in
 battered conſtitutions: the ſalt of vipers is alſo thought to exceed any
 other animal ſalt whatever, in giving vigour to the languid cir<g ref="char:EOLhyphen"/>culation, and
 prompting to venery.</p>
-               <figure>
-                  <figDesc>depiction of the rattlesnake and the
+               <p>The Rattle-ſnake is bred in America, and in no part of the old
+world. Some are as thick as a man's leg, and ſix feet in length; but the
+moſt uſual ſize is from four to five feet long. In moſt particulars it
+reſembles the viper: like that animal, having a large head and a ſmall
+neck, being of a duſky colour, and furniſhed <pb facs="tcp:0824000107:215"/> 
+                  <figure>
+                     <figDesc>depiction of the rattlesnake and the
 viper</figDesc>
-                  <head> 
-                     <list>
-                        <item>1. The Rattle Snake.</item>
-                        <item>2. The Female Viper.</item>
-                     </list>
-                  </head>
-                  <byline>E. Martin sculp.</byline>
-               </figure>
+                     <head> 
+                        <list>
+                           <item>1. The Rattle Snake.</item>
+                           <item>2. The Female Viper.</item>
+                        </list>
+                     </head>
+                     <byline>E. Martin sculp.</byline>
+                  </figure> 
+                  <pb n="209" facs="tcp:0824000107:216"/> with fangs that inflict the
+moſt terrible wounds. It differs, however, in having a large ſcale, which
+hangs like a penthouſe over each eye. The eye alſo is furniſhed with a
+nictitating membrane, that preſerves it from duſt; and its ſcales are of
+a conſiderable degree of hardneſs. They are of an orange, tawny, and
+blackiſh co<g ref="char:EOLhyphen"/>lour on the back; and of an aſh-colour on the belly, inclining
+to lead. The male may be readily diſtinguiſhed from the female, by a black
+velvet ſpot on the head, and by the head being ſmaller and longer. But that
+which, be<g ref="char:EOLhyphen"/>ſides their ſuperior malignity, diſtinguiſhes them from all
+other animals, is their rattle, an inſtru<g ref="char:EOLhyphen"/>ment lodged in their tail, by which
+they make ſuch a loud, rattling noiſe, when they move, that their approach
+may readily be perceived, and the danger avoided. This rattle, which is placed
+in the tail, ſomewhat reſembles, when taken out of the body, the curb chain
+of a bri<g ref="char:EOLhyphen"/>dle: it is compoſed of ſeveral thin, hard, hollow bones, linked to
+each other, and rattling upon the ſlighteſt motion. It is ſuppoſed by
+ſome, that the ſnake acquires an additional bone every year; and that, from
+hence, its age may be pre<g ref="char:EOLhyphen"/>ciſely known: however this may be, certain it is,
+that the young ſnakes, of a year or two old, have no rattles at all; while
+many old ones have <pb n="210" facs="tcp:0824000107:217"/> been killed, that had from eleven to
+thirteen joints each. They ſhake and make a noiſe with theſe rattles with
+prodigious quickneſs when they are diſturbed; however, the peccary and the
+vulture are no way terrified at the ſound, but haſten, at the ſignal, to
+ſeize the ſnake, as their moſt favourite prey.</p>
                <p>It is very different with almoſt every other animal. The
 certain death which enſues from this terrible creature's bite, makes a
 ſolitude wherever it is heard. It moves along with the moſt majeſtic
@@ -4602,18 +4704,21 @@ of proviſion in a ſingle day.</p>
                <div n="3" type="chapter">
                   <pb n="249" facs="tcp:0824000107:255"/>
                   <head>CHAP. III. Of the Spider and its Varieties.</head>
-                  <figure>
-                     <figDesc>depiction of three types of spiders, the
+                  <p>
+                     <pb facs="tcp:0824000107:254"/> 
+                     <figure>
+                        <figDesc>depiction of three types of spiders, the
 scolopondra [centipede], and the scorpion</figDesc>
-                     <head> 
-                        <list>
-                           <item>1.2.3. Spiders.</item>
-                           <item>4 The Scolopondra.</item>
-                           <item>5. The Scorpion.</item>
-                        </list>
-                     </head>
-                     <byline>E. Martin sculp.</byline>
-                  </figure>
+                        <head> 
+                           <list>
+                              <item>1.2.3. Spiders.</item>
+                              <item>4 The Scolopondra.</item>
+                              <item>5. The Scorpion.</item>
+                           </list>
+                        </head>
+                        <byline>E. Martin sculp.</byline>
+                     </figure>
+                  </p>
                   <p>
                      <pb n="249" facs="tcp:0824000107:255"/>THE animal that deſerves our firſt
 notice in this principal order of inſects is the ſpider, whoſe manners
@@ -4973,17 +5078,29 @@ greater than in England; and yet its bite is much more troubleſome here, than
 I have found it in any other place. It would ſeem that its force en<g ref="char:EOLhyphen"/>creaſed
 with the coldneſs of the climate; and though leſs prolific, that it became
 more pre<g ref="char:EOLhyphen"/>daceous.</p>
-                  <figure>
-                     <figDesc>depiction of the flea and the
+                  <p>If the flea be examined with a microſcope, it will be
+obſerved to have a ſmall head, large eyes, and a roundiſh body. It has
+two feelers, or horns, which are ſhort, and compoſed of four joints; and
+between theſe lies its trunk, which <pb facs="tcp:0824000107:275"/> 
+                     <figure>
+                        <figDesc>depiction of the flea and the
 louse</figDesc>
-                     <head> 
-                        <list>
-                           <item>1. The Flea. Magnified</item>
-                           <item>2. The Louse. Magnified</item>
-                        </list>
-                     </head>
-                     <byline>E. Martin sculp.</byline>
-                  </figure>
+                        <head> 
+                           <list>
+                              <item>1. The Flea. Magnified</item>
+                              <item>2. The Louse. Magnified</item>
+                           </list>
+                        </head>
+                        <byline>E. Martin sculp.</byline>
+                     </figure> 
+                     <pb n="269" facs="tcp:0824000107:276"/> it buries in the ſkin, and
+through which it ſucks the blood in large quantities. The body ap<g ref="char:EOLhyphen"/>pears to be
+all over curiouſly adorned with a ſuit of poliſhed ſable armour, neatly
+jointed, and beſet with multitudes of ſharp pins, almoſt like the quills
+of a porcupine. It has ſix legs, the joints of which are ſo adapted, that
+it can, as it were, fold them up one within another; and when it leaps, they
+all ſpring out at once, whereby its whole ſtrength is exerted, and the body
+raiſed above two hundred times its own diameter.</p>
                   <p>The young fleas are at firſt a ſort of nits or eggs, which
 are round and ſmooth; and from theſe proceed white worms, of a ſhining
 pearl colour: in a fortnight's time they come to a tolerable ſize, and are
